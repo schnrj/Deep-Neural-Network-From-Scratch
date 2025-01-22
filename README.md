@@ -44,6 +44,26 @@ Usage
 2. Run the Code
 Run the script with a sample dataset:
 python b22ee057_b22ee094.py
-
-3. Customize
+```
+# Customize
 Modify the network parameters such as the number of layers, neurons per layer, or learning rate in the code to experiment with different configurations.
+Code Structure
+b22ee057_b22ee094.py: Main script containing the neural network implementation.
+utils.py: Helper functions for data preprocessing and evaluation (if applicable).
+datasets/: Sample datasets for training and testing (optional).
+Results
+Training Accuracy: X%
+
+Test Accuracy: Y%
+
+Loss Curve:
+
+
+You can visualize the training process with Matplotlib, which is included in the script.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+  
+---
+
+You can copy the entire block above and paste it into your `README.md` file without any formatting issues. Let me know if you need additional help!
