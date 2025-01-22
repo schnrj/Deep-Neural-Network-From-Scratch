@@ -4,6 +4,11 @@
 
 This repository contains an implementation of a Deep Neural Network (DNN) from scratch using Python...
 
+### MNIST Dataset Sample
+Below is a sample image from the MNIST dataset:
+
+![MNIST Sample](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch/blob/0145471d6124831c071b3a772c943b9a57128984/figs/mnist_sample.png)
+
 ## Features
 
 - Implementation of forward and backward propagation.
