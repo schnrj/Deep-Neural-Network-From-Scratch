@@ -1,7 +1,7 @@
 # Deep Neural Network from Scratch
 
 This repository contains an implementation of a Deep Neural Network (DNN) from scratch using Python. The goal is to understand and build the core components of a neural network without relying on high-level libraries like TensorFlow or PyTorch.
-
+https://github.com/lionelmessi6410/Neural-Networks-from-Scratch/blob/0145471d6124831c071b3a772c943b9a57128984/figs/deep_nn-1.png
 ## Features
 
 - Implementation of forward and backward propagation.
