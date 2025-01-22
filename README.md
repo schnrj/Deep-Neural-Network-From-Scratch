@@ -59,12 +59,12 @@ Test Accuracy: 98%
 ### Confusion Matrix
 Below is the confusion matrix generated after testing the model:
 
-![Confusion Matrix](LINK_TO_CONFUSION_MATRIX_IMAGE)
+![Confusion Matrix]([LINK_TO_CONFUSION_MATRIX_IMAGE](https://github.com/schnrj/Deep-Neural-Network-From-Scratch/blob/main/confusion%20matrix.jpg))
 
 ### Loss and Accuracy vs. Epoch
 The following graph shows how the loss and accuracy change over epochs:
 
-![Loss and Accuracy vs. Epoch](LINK_TO_LOSS_ACCURACY_IMAGE)
+![Loss and Accuracy vs. Epoch]([LINK_TO_LOSS_ACCURACY_IMAGE](https://github.com/schnrj/Deep-Neural-Network-From-Scratch/blob/main/loss%20vs%20epoch.jpg))
 
 
 
