@@ -52,18 +52,19 @@ b22ee057_b22ee094.py: Main script containing the neural network implementation.
 utils.py: Helper functions for data preprocessing and evaluation (if applicable).
 datasets/: Sample datasets for training and testing (optional).
 Results
-Training Accuracy: X%
+Training Accuracy: 100X%
 
-Test Accuracy: Y%
+Test Accuracy: 98%
 
-Loss Curve:
+### Confusion Matrix
+Below is the confusion matrix generated after testing the model:
+
+![Confusion Matrix](LINK_TO_CONFUSION_MATRIX_IMAGE)
+
+### Loss and Accuracy vs. Epoch
+The following graph shows how the loss and accuracy change over epochs:
+
+![Loss and Accuracy vs. Epoch](LINK_TO_LOSS_ACCURACY_IMAGE)
 
 
-You can visualize the training process with Matplotlib, which is included in the script.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-  
----
-
-You can copy the entire block above and paste it into your `README.md` file without any formatting issues. Let me know if you need additional help!
